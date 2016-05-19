@@ -5,6 +5,10 @@ Source code of slides for **Android Async HTTP Client** talk [@Google I/O Extend
 
 To open the slides simply clone the repo and open *index.hmtl*
 
+```bash
+git clone https://github.com/gdgpisa/android-async-http-clients.git && xdg-open slides/index.hmtl
+```
+
 ## License
 
 Slides made with [reveal.js](https://github.com/hakimel/reveal.js). Feel free to fork the repo, open issues and pull requests.
